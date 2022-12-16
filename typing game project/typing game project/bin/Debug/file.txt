@@ -1,0 +1,8 @@
+
+name=shashi   score=300   speed=60    level=2
+name=s   score=40    speed=48    level=2
+name=p   score=20    speed=60    level=2
+name=shashi   score=400    speed=39    level=1
+name=freeze   score=80    speed=10    level=1
+name=freeze   score=50    speed=42    level=1
+name=freeze   score=70    speed=42    level=2
